@@ -1,0 +1,4 @@
+html { height: 100%;}
+body { height: 100%; margin: 0px; font-size: 0px;}
+
+#game { display: block; width: 100%; height: 100%;}
